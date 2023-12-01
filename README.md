@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Rohit Singh Rawat</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A Front-end developer from India</h3>
 
 <img align="right" width="400px" src = "https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e476t29avfcl5r5fox1456tccqj11i94fj6u9fp1nya&rid=giphy.gif&ct=g" alt = "Coding">
 
