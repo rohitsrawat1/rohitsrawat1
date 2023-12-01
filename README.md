@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rohitsrawat1/rohitsrawat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +22,7 @@ Here are some ideas to get you started:
 <img align="right" width="400px" src = "https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e476t29avfcl5r5fox1456tccqj11i94fj6u9fp1nya&rid=giphy.gif&ct=g" alt = "Coding">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SumitPokhriyal5&label=Profile%20views&color=0e75b6&style=flat" alt="SumitPokhriyal5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsrawat1&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsrawat1" /> </p>
 
 - 🌱 I’m currently learning **Advance JavaScript(ES6), React** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
@@ -35,12 +33,14 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LQ5vTtSQWA6OzbTkP_3b5WPkEBEaabBm/view?usp=sharing)
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitstan1998@gmail.com)
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SumitPokhriyal5/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitrawat48648@gmail.com)
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitsrawat_/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohitsrawat_/)
 
+<!--
 ### Profiles 👨‍🎓
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/sumitpokhriyal)
+-->
 
 ## ⚡ Tech Stack
 
@@ -51,10 +51,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -63,7 +60,6 @@ Here are some ideas to get you started:
 
 ### 🧩 Libraries and Tools:
 
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -100,15 +96,16 @@ Here are some ideas to get you started:
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsrawat1&layout=compact&hide_border=true&theme=radical" alt="rohitsrawat1" />
 </p>
 
-<!-- Leetcode Stats -->
+<!-- Leetcode Stats 
 
 ## Leetcode Stats 🔥
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sumitpokhriyal?ext=heatmap)](https://www.leetcode.com/sumitpokhriyal)
+-->
 
 <br/>
     <h3 align="center"> 
         Visitor count <br>
-        <img src="https://profile-counter.glitch.me/SumitPokhriyal5&theme=sea/count.svg" />
+        <img src="https://profile-counter.glitch.me/rohitsrawat1&theme=sea/count.svg" />
       </h3>
 
 <!-- Footer image -->
