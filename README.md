@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Advance JavaScript(ES6), React** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 💬 Ask me about **Data Structures and Algorithms** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 💬 Don't Ask me about **Data Structures and Algorithms** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 📫 How to reach me **rohitrawat48648@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
