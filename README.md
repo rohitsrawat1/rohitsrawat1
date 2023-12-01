@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- <img align="center" width="100%" src = "https://user-images.githubusercontent.com/94675329/210436684-dfccd082-ebf6-4970-9650-cc61777d4011.png" alt = "Coding"> -->
 
 
-<h1 align="center">Hi 👋, I'm Sumit Pokhriyal</h1>
+<h1 align="center">Hi 👋, I'm Rohit Singh Rawat</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
 <img align="right" width="400px" src = "https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e476t29avfcl5r5fox1456tccqj11i94fj6u9fp1nya&rid=giphy.gif&ct=g" alt = "Coding">
@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Data Structures and Algorithms** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
-- 📫 How to reach me **sumitstan1998@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
+- 📫 How to reach me **rohitrawat48648@gmail.com** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1LQ5vTtSQWA6OzbTkP_3b5WPkEBEaabBm/view?usp=sharing)
 
 ## Connect with me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="60px" height="40px" align="center"/>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitstan1998@gmail.com)
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SumitPokhriyal5/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sp_cowboy5/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohitsrawat_/)
 
 ### Profiles 👨‍🎓
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/sumitpokhriyal)
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ## Trophies: 🏆
 <p align="center" >
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=SumitPokhriyal5&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="SumitPokhriyal5" />
+		<img src="https://github-profile-trophy.vercel.app/?username=rohitsrawat1&theme=monokai&no-frame=false&no-bg=true&margin-w=4" alt="rohitsrawat1" />
 	</a>
 </p> 
 
@@ -91,13 +91,13 @@ Here are some ideas to get you started:
 ## Github Stats ✨
 
 <p align="center">
-	<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitPokhriyal5&layout=compact&hide_border=true&theme=radical" />
+	<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsrawat1&layout=compact&hide_border=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SumitPokhriyal5&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" 			alt="SumitPokhriyal5" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rohitsrawat1&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" 			alt="rohitsrawat1" />
 
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitPokhriyal5&layout=compact&hide_border=true&theme=radical" alt="SumitPokhriyal5" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsrawat1&layout=compact&hide_border=true&theme=radical" alt="rohitsrawat1" />
 </p>
 
 <!-- Leetcode Stats -->
