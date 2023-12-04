@@ -95,6 +95,9 @@ Here are some ideas to get you started:
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsrawat1&layout=compact&hide_border=true&theme=radical" alt="rohitsrawat1" />
 </p>
 
+
+## Leetcode
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Leetcode Stats 
 
 ## Leetcode Stats 🔥
